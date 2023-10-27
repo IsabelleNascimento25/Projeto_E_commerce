@@ -49,6 +49,16 @@ https://www.amazon.com.br/?&tag=hydrbrabk-20&ref=pd_sl_7rwd1q78df_e&adgrpid=7954
  * <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
   CSS<br>
   
+##Funcionalides
+| Métodos Javascript | Funcionalidade |
+|--------------------|----------------|
+| hasOwnProperty | é um método em JavaScript usado para verificar se um objeto possui uma propriedade específica.|
+| 'use strict' |Modo mais restrito de execução do código.|
+| Async |	Utilizada para criar funções capazes de aguardar operações assíncronas com a palavra-chave "await".|
+| fetch()	| Metódo incorporado do JavaScript que possibilita efetuar solicitações HTTP para adquirir informações de um servidor web. |
+| /^[0-9]+$/ |	Vereficar se uma string se encaixa em um padrão particular definido por uma expressão regular.
+| () =>	| A notação utilizada em JavaScript para declarar funções de seta. |
+
 
 ## 🔠Fontes consultadas
   https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/option
