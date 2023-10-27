@@ -51,6 +51,10 @@ https://www.amazon.com.br/?&tag=hydrbrabk-20&ref=pd_sl_7rwd1q78df_e&adgrpid=7954
   
 
 ## 🔠Fontes consultadas
+  https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/option
+  https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html
+  https://www.guj.com.br/t/buscar-cep-de-forma-automatica-html5/401658/2
+  
   
 ## ✒️Autores
  <img src="isabelle.png" width="20px"> Isabelle Nascimento de Oliveira <br>
