@@ -1,13 +1,27 @@
-'use restrict'; //Modo Restrito
-
 //Limpar formulário
 const limparFormulario = () =>{
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
     document.getElementById('cidade').value = '';
     document.getElementById('estado').value = '';
+    
+//valida a senha
+
+
+var password = document.getElementById("password")
+  , confirm_password = document.getElementById("confirm_password");
+
+function validatePassword(){
+  if(password.value != confirm_password.value) {
+    confirm_password.setCustomValidity("Senhas diferentes!");
+  } else {
+    confirm_password.setCustomValidity('');
+  }
 }
 
+password.onchange = validatePassword;
+confirm_password.onkeyup = validatePassword;
+}
 //Verifica se CEP é válido
 const eNumero = (numero) => /^[0-9]+$/.test(numero);
 const cepValido = (cep) => cep.length == 8 && eNumero(cep);
@@ -48,3 +62,5 @@ const pesquisarCep = async() =>{
 // Adiciona um evento DOM, no input CEP
 
 document.getElementById('cep').addEventListener('focusout', pesquisarCep);
+
+

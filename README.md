@@ -8,8 +8,10 @@
 
 # Projeto - 
 Identificar 3 sites, ver as diferenças e organização do site e depois adcionar ao programa com  com link de navegação configurado e com os recursos implementados funcionando. Por exemplo, ao digitar o CEP, ele deverá preencher os campos corretamente.
-
-    * MERCADO LIVRE
+<br>
+   * <img src="img/mercadolivre.png" width="60px">
+    
+   
   https://www.mercadolivre.com.br/gz/checkout/cart/buying/b2671a2f733946158cd68484c2aebf45/addressFloxStepShippingMethodsaddressFlox
   <br>
   <strong> Diferença visualizada </strong>
@@ -19,8 +21,7 @@ Identificar 3 sites, ver as diferenças e organização do site e depois adciona
   <img src="img/trabalhocasa.png" width="500px">
   <br>
 
-    * OLX
-  https://conta.olx.com.br/meu-cadastro
+ * <img src="img/olx.png" width="60px"> 
   <br>
   <strong> Diferença visualizada </strong>
   <br>
@@ -28,7 +29,7 @@ Identificar 3 sites, ver as diferenças e organização do site e depois adciona
   <img src="img/novoendereco.png" width="600px">
 <br>
 
-    * AMAZON
+ * <img src="img/amazon.png" width="60px"> 
 https://www.amazon.com.br/?&tag=hydrbrabk-20&ref=pd_sl_7rwd1q78df_e&adgrpid=79547423725&hvpone=&hvptwo=&hvadid=476995574390&hvpos=&hvnetw=g&hvrand=18072714701923538017&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001637&hvtargid=kwd-10573980&hydadcr=26346_11604061
   <br>
   <strong> Diferença visualizada </strong>
