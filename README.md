@@ -59,9 +59,17 @@ https://www.amazon.com.br/?&tag=hydrbrabk-20&ref=pd_sl_7rwd1q78df_e&adgrpid=7954
 | /^[0-9]+$/ |	Vereficar se uma string se encaixa em um padrão particular definido por uma expressão regular.
 | () =>	| A notação utilizada em JavaScript para declarar funções de seta. |
 
+<strong>Código validação da senha</strong>
+<br>
+<img src="img/validacao.png" width="400px">
+
+<strong>Código validação do CEP</strong>
+<br>
+<img src="img/validacaocep.png" width="400px">
 
 ## 🔠Fontes consultadas
   https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/option
+  https://getbootstrap.com/docs/5.0/forms/checks-radios/
   https://velhobit.com.br/programacao/carregando-cep-cidades-dinamicamente.html
   https://www.guj.com.br/t/buscar-cep-de-forma-automatica-html5/401658/2
   
